@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Utku Ayaz! 👋
 
-<!--
-**akkasayaz/akkasayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student at Ozyegin University, passionate about technology and software development.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Currently studying at Ozyegin University
+- 🔭 I’m currently working on various academic and personal projects that challenge my skills and expand my knowledge.
+- 🌱 I’m learning more about software engineering principles, new programming languages, and cutting-edge technologies.
+- 👯 I’m looking to collaborate on open-source projects or innovative tech ideas that make a difference.
+- 💼 I’m working as a Data Science Intern
+  
+## My Skills
+- 💻 Programming languages: Python
+- 🛠 Tools and frameworks: PyTorch, pandas, dash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 🐦 Twitter: [@AkkasAyaz](https://twitter.com/AkkasAyaz)
+- 🔗 GitHub: [akkasayaz](https://github.com/akkasayaz)
+- 🔗 LinkedIn: [Utku Ayaz Akkas](linkedin.com/utkuakkas)
+
+Feel free to explore my repositories and get in touch if you find anything interesting or want to collaborate!
