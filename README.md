@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at Ozyegin Universi
 ## Connect with Me
 - 🐦 Twitter: [@AkkasAyaz](https://twitter.com/AkkasAyaz)
 - 🔗 GitHub: [akkasayaz](https://github.com/akkasayaz)
-- 🔗 LinkedIn: [Utku Ayaz Akkas](https://linkedin.com/utkuakkas)
+- 🔗 LinkedIn: [Utku Ayaz Akkas](https://linkedin.com/in/utkuakkas)
 
 Feel free to explore my repositories and get in touch if you find anything interesting or want to collaborate!
